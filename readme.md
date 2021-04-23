@@ -17,3 +17,5 @@
 // git checkout -b new
 // git remote add origin https://github.com/SaturnT888/git-demo.git
 // git push -u origin <branch name>
+// git clone https://github.com/SaturnT888/git-demo.git
+// git pull
