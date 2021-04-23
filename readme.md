@@ -15,3 +15,5 @@
 // git branch -D <branch name>
 // git checkout <branch name>
 // git checkout -b new
+// git remote add origin https://github.com/SaturnT888/git-demo.git
+// git push -u origin <branch name>

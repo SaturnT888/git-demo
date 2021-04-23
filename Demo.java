@@ -2,6 +2,9 @@ import java.util.*;
 
 public class Demo {
     public static void main (String[] args) {
-        System.out.println ("Hallo, Ich bin Java!");
+
+        for (short i = 0; i < 10; i++) {
+            System.out.println ("Line " + (i + 1) + ": Hallo, Ich bin Java!");
+        }
     }
 }
