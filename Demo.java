@@ -15,3 +15,4 @@ public class Demo {
 // git add .
 // git add <file>
 // git rm --cached <file>
+// git checkout -b new
