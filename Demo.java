@@ -7,6 +7,8 @@ public class Demo {
 }
 
 /* git */
+// git config --global user.email "email@email"
+// git config -- global user.name "name"
 // git --version
 // git --help
 // git init
