@@ -11,6 +11,7 @@
 // .gitignore
 // git branch
 // git branch <branch name>
+// git branch -M <new branch name>
 // git branch -D <branch name>
 // git checkout <branch name>
 // git checkout -b new
