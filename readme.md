@@ -5,9 +5,14 @@
 // git --version
 // git --help
 // git init
+// git status
+// git log
+// git log -p
 // git add .
 // git add <file>
 // git rm --cached <file>
+// git commit -m "<message>"
+// git show
 // .gitignore
 // git branch
 // git branch <branch name>
