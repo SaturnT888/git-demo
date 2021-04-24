@@ -12,7 +12,8 @@
 // git add <file>
 // git rm --cached <file>
 // git commit -m "<message>"
-// git show
+// git show <commit-hash>
+// git restore <filename>
 // .gitignore
 // git branch
 // git branch <branch name>
